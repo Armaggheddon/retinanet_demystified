@@ -42,7 +42,7 @@ Let's get this model trained! We'll use the fun [Raccoon dataset](https://github
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Armaggheddon/retinanet_demystified.git
     cd retinanet_pytorch
     ```
 
