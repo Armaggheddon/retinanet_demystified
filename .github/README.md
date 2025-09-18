@@ -1,4 +1,9 @@
 <div id="top"></div>
+<br/>
+
+<p align="center">
+  <img src="./cover_image.png" alt="RetinaNet Demystified Cover Image" width="800">
+</p>
 
 <h1 align="center">
     <a href="https://github.com/Armaggheddon/retinanet_demystified">A Clear and Simple RetinaNet in PyTorch</a>
@@ -79,15 +84,15 @@ Absolutely! The goal here isn't to set new state-of-the-art records, but to demo
 You'll notice clear signs of overfitting, which is expected given the dataset's size. But more importantly, you'll see the loss decreasing and the model successfully identifying objects. It's alive!
 
 <p align="center">
-    <img src="./plots/train_eval_avg_loss.png" alt="Train/Eval trend" width="600">
+    <img src="../plots/train_eval_avg_loss.png" alt="Train/Eval trend" width="600">
     <br><em>Average training and evaluation loss per epoch. The model is learning!</em>
 </p>
 <p align="center">
-  <img src="./plots/training_metrics.png" alt="Train loss" width="600">
+  <img src="../plots/training_metrics.png" alt="Train loss" width="600">
   <br><em>Training total loss, classification loss, and box regression loss.</em>
 </p>
 <p align="center">
-  <img src="./plots/evaluation_loss_metrics.png" alt="Eval loss" width="600">
+  <img src="../plots/evaluation_loss_metrics.png" alt="Eval loss" width="600">
   <br><em>Evaluation total loss, classification loss, and box regression loss.</em>
 </p>
 
